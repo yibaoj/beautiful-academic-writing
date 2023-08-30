@@ -31,3 +31,12 @@ and introduced widely used propensity score matching with clarity.
 
 This is a magazine paper focusing on educational introduction of wind turbine control and wind farm topology. 
 Although the breadth and depth of the survey are limited, the langauge is easy-to-follow and appealing to general public.
+
+> Veers, Paul, et al. "Grand Challenges: Wind energy research needs for a global energy transition." Wind Energy Science 7.6 (2022): 2491-2496.
+
+The magic Veers has is to phrase a well-knonw concept or opinion in a profound and convincing way. For instance,
+"The notion that we can simply take hardware that has been successful to this point and multiply the deployment by a factor of 5 or 10 
+fails to appreciate the harsh reality that the technology demands of the future will be significantly different than they have been to date". 
+When motivations of the paper series is demanded,
+"The charter for the authors was not to suggest particular innovative solutions or to tout specific technology advances, 
+but to review the literature and to articulate the most critical needs, with the intent to synthesize and clarify".
