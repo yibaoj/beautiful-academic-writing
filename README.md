@@ -24,3 +24,10 @@ grouped by respective disciplines.
 
 This paper derived an adjusted large sample distribution of propensity score matching estimators, 
 and introduced widely used propensity score matching with clarity. 
+
+## Wind Energy
+
+> Shourangiz-Haghighi, Alireza, et al. "Developing more efficient wind turbines: A survey of control challenges and opportunities." IEEE Industrial Electronics Magazine 14.4 (2020): 53-64.
+
+This is a magazine paper focusing on educational introduction of wind turbine control and wind farm topology. 
+Although the breadth and depth of the survey are limited, the langauge is easy-to-follow and appealing to general public.
